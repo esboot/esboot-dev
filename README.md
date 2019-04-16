@@ -7,4 +7,4 @@ npx esboot-dev
 ```
 
 
-Modify `prompt.mock.json` file to change the answer!
+Modify `mock/prompt.mock.json` file to change the answer!
